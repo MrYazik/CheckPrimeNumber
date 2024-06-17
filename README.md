@@ -19,7 +19,7 @@
 Вот шаги по скачиванию и использованию данного проекта на системах `GNU/Linux Debian` и ей подобные:
 
 1. Перейдите во вкладку [Releases](https://github.com/MrYazik/CheckPrimeNumber/releases) данного проекта.
-2. Скачайте файл `CheckPrimeNumber.out` из вкладки [Assets](). (Если не хотите лишний раз переходить по вкладкам, нажмите на ссылку: `Assets`).
+2. Скачайте файл `CheckPrimeNumber.out` из вкладки [Assets](https://github.com/MrYazik/CheckPrimeNumber/releases/download/1.0.0/CheckPrimeNumber.out). (Если не хотите лишний раз переходить по вкладкам, нажмите на ссылку: `Assets`).
 3. Перейдите в папку где находится скаченный файл и откройте терминал в этой самой папке.
 4. Пропишите разрешение на запуск как программы: `chmod +x CheckPrimeNumber.out`
 5. И наконец запустите программу: `./CheckPrimeNumber.out`
